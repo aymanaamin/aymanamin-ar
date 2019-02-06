@@ -196,7 +196,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "مدونة"
   url = "#posts"
   weight = 3
 
