@@ -213,7 +213,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
 #  url = "#contact"
-  url = "https://aymanamin.rbind.io/#about"
+  url = "https://aymanamin.rbind.io/#contact"
   weight = 6
 
 # Taxonomies.
