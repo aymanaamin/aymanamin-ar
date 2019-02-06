@@ -1,5 +1,5 @@
-baseurl = "https://aymanamin.rbind.io/"
-# baseurl = "https://aymanamin.netlify.com/"
+#baseurl = "https://aymanamin.rbind.io/"
+baseurl = "https://aymanamin-ar.netlify.com/"
 # baseurl = "https://aymanamin.rbind.io/"
 title = "Ayman A. Amin"
 copyright = "&copy; 2018 Ayman Ahmed Amin"
@@ -49,6 +49,16 @@ defaultContentLanguageInSubdir = false
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
   math = false
+
+ # SITE SETUP
+
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+  color_theme = "alison"
+
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  font = "alison"
 
   # Highlight.js options
   #   highlight
