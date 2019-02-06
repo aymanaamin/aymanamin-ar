@@ -34,6 +34,7 @@ html {
 
 body {
   font-family: inherit;
+  text-align: right;  /* aymanamin. */
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
