@@ -1,1 +1,2 @@
-# aymanamin-ar
+# aymanamin
+Personal website of Ayman Amin
