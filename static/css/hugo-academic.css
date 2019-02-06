@@ -23,6 +23,7 @@
 html {
   font-family: 'Merriweather', serif;
   font-size: 16px;
+  text-align: right;  /* aymanamin: Added. */
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
