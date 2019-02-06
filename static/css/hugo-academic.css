@@ -34,7 +34,7 @@ html {
 
 body {
   font-family: inherit;
-  text-align: right;  /* aymanamin. */
+  text-align: right;  /* aymanamin: Added. */
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
@@ -329,7 +329,8 @@ ul.ul-edu li .description p.institution {
  **************************************************/
 
 .share-box {
-  float: right;
+  float: left;   /* aymanamin: changed from right to be left. */
+
 }
 
 ul.share {
