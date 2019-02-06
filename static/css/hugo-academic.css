@@ -52,6 +52,7 @@ body {
 /* Body text */
 p {
   margin-top: 0;
+  text-align: right;  /* aymanamin: Added. */
   margin-bottom: 1rem;
 }
 
@@ -72,6 +73,7 @@ ul, ol, dl {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
+  text-align: right;  /* aymanamin: Added. */
   font-weight: 400;
   margin-bottom: .5rem;
   line-height: 1.25;
