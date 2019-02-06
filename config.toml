@@ -1,7 +1,7 @@
 #baseurl = "https://aymanamin.rbind.io/"
 baseurl = "https://aymanamin-ar.netlify.com/"
 # baseurl = "https://aymanamin.rbind.io/"
-title = "Ayman A. Amin"
+title = "أيمن أحمد أمين"
 copyright = "&copy; 2018 Ayman Ahmed Amin"
 theme = "hugo-academic"
 enableEmoji = true
@@ -22,9 +22,9 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Ayman A. Amin"
+  name = "أيمن أحمد أمين"
   description = "Personal website of Ayman A. Amin"
-  role = "Assistant Professor of Statistics"
+  role = "مدرس الإحصاء"
   organization = "Faculty of Commerce, Menoufia University, Egypt."
   organization_url = "http://www.menofia.edu.eg/Home/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
