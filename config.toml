@@ -194,12 +194,12 @@ defaultContentLanguageInSubdir = false
   name = "بحث علمي"
   url = "https://aymanamin.rbind.io/#publications"
  # url = "#publications"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "مدونة"
   url = "#posts"
-  weight = 3
+  weight = 2
 
 # [[menu.main]]
 #  name = "Talks & Workshops"
