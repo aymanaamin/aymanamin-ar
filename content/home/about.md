@@ -69,5 +69,7 @@ p {
 
 
 <div class="centered">
-This text is centered.
+
+- تغن.
+
 </div>
