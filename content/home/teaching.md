@@ -14,6 +14,8 @@ weight = 60
 
 +++
 
+
+
 I teach the following courses for undergraduate students:
 
 - Applied Mathematics.
@@ -27,3 +29,7 @@ I teach the following courses for Postgraduate students:
 - Theory of Statistics 
 - Mathematics for Statisticians	
 - Demography 
+
+
+1. نعم في السابق
+2. لا يجب
