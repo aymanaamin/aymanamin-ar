@@ -1,4 +1,4 @@
-﻿+++
++++
 # About/Biography widget.
 
 date = "2018-04-20T00:00:00"
@@ -40,6 +40,12 @@ weight = 1
   year = 2006
  
 +++
+
+<style>
+p { 
+  direction: rtl;
+}
+</style>
 
 # خلفية
 
