@@ -12,6 +12,12 @@ summary: الأمية في مصر – نظرة رقمية باستخدام بي�
 slug: Illiteracy-inEgypt
 ---
 
+<style>
+p { 
+  direction: rtl;
+}
+</style>
+
 
 
 
