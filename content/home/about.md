@@ -62,6 +62,7 @@ p {
 (http://www.menofia.edu.eg/Home/en).
 
 
-
+<p align="right">
 - التعلم
 - نعم
+</p>
