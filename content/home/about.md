@@ -61,15 +61,3 @@ p {
 [بكلية التجارة، جامعة المنوفية، مصر]
 (http://www.menofia.edu.eg/Home/en).
 
-
-<p align="right">
-- التعلم
-- نعم
-</p>
-
-
-<div class="centered">
-
-- تغن.
-
-</div>
