@@ -33,3 +33,9 @@ I teach the following courses for Postgraduate students:
 
 1. نعم في السابق
 2. لا يجب
+
+
+
+الحمد لله رب العالمين الذي انعم علينا نعمه ظاهرة وباطنة
+
+
