@@ -66,3 +66,8 @@ p {
 - التعلم
 - نعم
 </p>
+
+
+<div class="centered">
+This text is centered.
+</div>
