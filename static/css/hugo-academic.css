@@ -36,7 +36,7 @@ html {
 body {
   font-family: inherit;
   text-align: right;  /* aymanamin: Added. */
-  direction: rtl; unicode-bidi: embed; /* aymanamin: Added. */
+  direction: rtl; unicode-bidi: bidi-override; /* aymanamin: Added. */
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
