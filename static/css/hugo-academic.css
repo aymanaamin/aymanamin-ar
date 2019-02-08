@@ -57,6 +57,20 @@ p {
   margin-bottom: 1rem;
 }
 
+
+.rtl { /* aymanamin: Added. */
+    direction: rtl;
+}
+
+#em { /* aymanamin: Added. */
+    unicode-bidi: embed;
+}
+
+#bidi { /* aymanamin: Added. */
+    unicode-bidi: bidi-override;
+}
+
+
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
