@@ -2,7 +2,7 @@
 baseurl = "https://aymanamin-ar.netlify.com/"
 # baseurl = "https://aymanamin.rbind.io/"
 title = "أيمن أحمد أمين"
-copyright = "&copy; 2018 Ayman Ahmed Amin"
+copyright = "&copy; Ayman Ahmed Amin 2018"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -183,7 +183,7 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = true
+  align_right = false
   
 [[menu.main]]
   name = "رئيسية"
