@@ -2,7 +2,7 @@
 baseurl = "https://aymanamin-ar.netlify.com/"
 # baseurl = "https://aymanamin.rbind.io/"
 title = "أيمن أحمد أمين"
-copyright = "&copy Ayman Ahmed Amin 2018"
+copyright = "&copy; Ayman Ahmed Amin 2018"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

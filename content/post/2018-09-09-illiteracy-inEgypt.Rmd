@@ -112,3 +112,10 @@ library("Ecdat")
 data("Housing")
 ```
 </p>
+
+
+
+```{r }
+summary(Housing)
+```
+
