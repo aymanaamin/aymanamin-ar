@@ -167,6 +167,7 @@ code {
 pre {
   margin: 0 0 1rem 0;
   overflow: auto;
+  direction: ltr; /* aymanamin: Added. */
 }
 
 /* Quotes */
