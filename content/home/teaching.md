@@ -30,4 +30,3 @@ I teach the following courses for Postgraduate students:
 - Mathematics for Statisticians	
 - Demography 
 
-
