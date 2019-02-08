@@ -162,7 +162,7 @@ figcaption h4 {
 pre,
 code {
   font-family: 'Roboto Mono', 'Courier New', 'Courier', monospace;
-  text-align: right;  /* aymanamin: Added. */
+  text-align: left;  /* aymanamin: Added. */
   direction: ltr; /* aymanamin: Added. */
 
 }
