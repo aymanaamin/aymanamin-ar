@@ -106,15 +106,7 @@ knitr::include_graphics('/img/posts/2018-09-09-illiteracy-inEgypt/illit.png')
 </p>
 
 
-
-<p align="right">
-- التعلم
-- نعم
-</p>
-
-
-<div class="centered">
-
-- تغن.
-
-</div>
+```{r }
+library("Ecdat")
+data("Housing")
+```
