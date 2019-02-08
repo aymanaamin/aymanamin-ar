@@ -106,7 +106,9 @@ knitr::include_graphics('/img/posts/2018-09-09-illiteracy-inEgypt/illit.png')
 </p>
 
 
+<p direction="ltr">
 ```{r }
 library("Ecdat")
 data("Housing")
 ```
+</p>
