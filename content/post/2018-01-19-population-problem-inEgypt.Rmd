@@ -34,7 +34,6 @@ slug: population-problem-inEgypt
 3. دين
 2. عقيدة
 
--->
 
 
 ```{r }
@@ -48,3 +47,5 @@ data("Housing")
 summary(Housing)
 ```
 
+
+-->

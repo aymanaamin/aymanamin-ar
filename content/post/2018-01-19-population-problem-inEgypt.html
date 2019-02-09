@@ -31,24 +31,60 @@ slug: population-problem-inEgypt
 3. دين
 2. عقيدة
 
--->
-<pre class="r"><code>library(&quot;Ecdat&quot;)</code></pre>
-<pre><code>## Warning: package &#39;Ecdat&#39; was built under R version 3.5.2</code></pre>
-<pre><code>## Loading required package: Ecfun</code></pre>
-<pre><code>## Warning: package &#39;Ecfun&#39; was built under R version 3.5.2</code></pre>
-<pre><code>## 
-## Attaching package: &#39;Ecfun&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:base&#39;:
+
+
+
+```r
+library("Ecdat")
+```
+
+```
+## Warning: package 'Ecdat' was built under R version 3.5.2
+```
+
+```
+## Loading required package: Ecfun
+```
+
+```
+## Warning: package 'Ecfun' was built under R version 3.5.2
+```
+
+```
 ## 
-##     sign</code></pre>
-<pre><code>## 
-## Attaching package: &#39;Ecdat&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:datasets&#39;:
+## Attaching package: 'Ecfun'
+```
+
+```
+## The following object is masked from 'package:base':
 ## 
-##     Orange</code></pre>
-<pre class="r"><code>data(&quot;Housing&quot;)</code></pre>
-<pre class="r"><code>summary(Housing)</code></pre>
-<pre><code>##      price           lotsize         bedrooms        bathrms     
+##     sign
+```
+
+```
+## 
+## Attaching package: 'Ecdat'
+```
+
+```
+## The following object is masked from 'package:datasets':
+## 
+##     Orange
+```
+
+```r
+data("Housing")
+```
+
+
+
+
+```r
+summary(Housing)
+```
+
+```
+##      price           lotsize         bedrooms        bathrms     
 ##  Min.   : 25000   Min.   : 1650   Min.   :1.000   Min.   :1.000  
 ##  1st Qu.: 49125   1st Qu.: 3600   1st Qu.:2.000   1st Qu.:1.000  
 ##  Median : 62000   Median : 4600   Median :3.000   Median :1.000  
@@ -68,4 +104,8 @@ slug: population-problem-inEgypt
 ##  Median :0.0000            
 ##  Mean   :0.6923            
 ##  3rd Qu.:1.0000            
-##  Max.   :3.0000</code></pre>
+##  Max.   :3.0000
+```
+
+
+-->
