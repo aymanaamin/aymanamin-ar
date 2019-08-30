@@ -3,11 +3,10 @@ title: ' الأمية في مصر- بمناسبة اليوم الدولي لمح
 author: Ayman Amin
 date: '2018-09-09'
 categories:
-  - مؤشرات مصرية
+  - Egyptian Indicators 
 tags:
   - Illiteracy
-  - الأمية
-  - ُEgypt 
+  - Egypt 
 summary: الأمية في مصر – نظرة رقمية باستخدام بيانات تعدادي السكان 2006 و 2017  بمناسبة اليوم الدولي لمحو الأمية 2018
 slug: Illiteracy-inEgypt
 ---
