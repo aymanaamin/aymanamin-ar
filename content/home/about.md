@@ -25,7 +25,7 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics [Applied in Information Technology]"
+  course = "PhD in Applied Statistics and Information Technology"
   institution = "Faculty of Science, Engineering, and Technology (FSET), Swinburne University of Technology, Australia."
   year = 2014
 
@@ -51,13 +51,13 @@ p {
 
 # خلفية 
 
-أعمل حالياً **مدرس الإحصاء**
+أعمل حالياً **استاذ مساعد الإحصاء**
 [بكلية التجارة، جامعة المنوفية، مصر]
 (http://www.menofia.edu.eg/Home/en).
- قبل ذلك عملت كمدرس مساعد للإحصاء والرياضيات (من فيراير 2012 حتي يونيو 2014)
+ قبل ذلك عملت كمدرس الإحصاء بذات الكلية (من سبتمبر 2015 حتي اكتوبر 2020) وكذلك مدرس مساعد الإحصاء والرياضيات (من فيراير 2012 حتي يونيو 2014)
 [بكلية العلوم والتكنولوجيا والهندسة، جامعة سوينبرن، إستراليا]
 (http://www.swin.edu.au/)،
- وكذلك كمعيد للإحصاء (من مايو 2007 حتي إبريل 2010) 
+ وكذلك كمعيد الإحصاء (من مايو 2007 حتي إبريل 2010) 
 [بكلية التجارة، جامعة المنوفية، مصر]
 (http://www.menofia.edu.eg/Home/en).
 

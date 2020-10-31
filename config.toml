@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "أيمن أحمد أمين"
   description = "Personal website of Ayman A. Amin"
-  role = "مدرس الإحصاء"
+  role = "استاذ مساعد الإحصاء"
   organization = "كلية التجارة، جامعة المنوفية، مصر"
   organization_url = "http://www.menofia.edu.eg/Home/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -188,18 +188,18 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "رئيسية"
   url = "#about"
-  weight = 1
+  weight = 8
 
 [[menu.main]]
   name = "بحث علمي"
   url = "https://aymanamin.rbind.io/#publications"
  # url = "#publications"
-  weight = 3
+  weight = 7
 
 [[menu.main]]
   name = "مدونة"
   url = "#posts"
-  weight = 2
+  weight = 6
 
 # [[menu.main]]
 #  name = "Talks & Workshops"
@@ -216,13 +216,19 @@ defaultContentLanguageInSubdir = false
   name = "تواصل"
 #  url = "#contact"
   url = "https://aymanamin.rbind.io/#contact"
-  weight = 6
+  weight = 4
+
+[[menu.main]]
+  name = "لوحة"
+  url = "/dashboard/"
+  weight = 3
 
 [[menu.main]]
   name = "English"
 #  url = "#contact"
   url = "https://aymanamin.rbind.io/"
-  weight = 7
+  weight = 1
+  
   
 # Taxonomies.
 [taxonomies]
