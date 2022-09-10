@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   organization = "كلية التجارة، جامعة المنوفية، مصر"
   organization_url = "http://www.menofia.edu.eg/Home/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "ayman-pic.jpg" # Specify an avatar image (in `static/img/` folder)
+  avatar = "ayman-pic.jpeg" # Specify an avatar image (in `static/img/` folder)
   email = "aymanaamin@gmail.com"
   address = ""
   office_hours = ""
@@ -166,10 +166,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/ayman-amin-a45b1441/"
 
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fa"
-    link = "https://www.facebook.com/aymanaamin"
+#  [[params.social]]
+#    icon = "facebook"
+#    icon_pack = "fa"
+#    link = "https://www.facebook.com/aymanaamin"
 
 
   [[params.social]]
