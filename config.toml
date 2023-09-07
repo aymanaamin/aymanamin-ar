@@ -218,10 +218,10 @@ defaultContentLanguageInSubdir = false
 #  url = "https://aymanamin.rbind.io/#contact"
   weight = 4
 
-[[menu.main]]
-  name = "لوحة"
-  url = "/dashboard/"
-  weight = 3
+#[[menu.main]]
+#  name = "لوحة"
+#  url = "/dashboard/"
+#  weight = 3
 
 [[menu.main]]
   name = "English"
