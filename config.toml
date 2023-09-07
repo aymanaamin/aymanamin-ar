@@ -207,15 +207,15 @@ defaultContentLanguageInSubdir = false
 #  weight = 4
 
 [[menu.main]]
-  name = "تدريس"
-  url = "https://aymanamin.rbind.io/#teaching"
+  name = "خبرات"
+  url = "https://aymanamin.rbind.io/bio/"
 #  url = "#teaching"
   weight = 5
 
 [[menu.main]]
   name = "تواصل"
-#  url = "#contact"
-  url = "https://aymanamin.rbind.io/#contact"
+  url = "#contact"
+#  url = "https://aymanamin.rbind.io/#contact"
   weight = 4
 
 [[menu.main]]
@@ -225,7 +225,6 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "English"
-#  url = "#contact"
   url = "https://aymanamin.rbind.io/"
   weight = 1
   
