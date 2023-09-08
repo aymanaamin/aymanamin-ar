@@ -1,6 +1,5 @@
 #baseurl = "https://aymanamin.rbind.io/"
 baseurl = "https://aymanamin-ar.netlify.com/"
-# baseurl = "https://aymanamin.rbind.io/"
 title = "أيمن أحمد أمين"
 copyright = "&copy; Ayman Ahmed Amin 2018"
 theme = "hugo-academic"
@@ -29,7 +28,7 @@ defaultContentLanguageInSubdir = false
   organization_url = "http://www.menofia.edu.eg/Home/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ayman-pic.jpeg" # Specify an avatar image (in `static/img/` folder)
-  email = "aymanaamin@gmail.com"
+  email = "ayman.a.amin@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
