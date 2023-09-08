@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "أيمن أحمد أمين"
   description = "Personal website of Ayman A. Amin"
-  role = "استاذ مساعد الإحصاء"
+  role = "استاذ الإحصاء المساعد"
   organization = "كلية التجارة، جامعة المنوفية، مصر"
   organization_url = "http://www.menofia.edu.eg/Home/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -166,10 +166,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/aymanaamin/"
 
-#  [[params.social]]
-#    icon = "facebook"
-#    icon_pack = "fa"
-#    link = "https://www.facebook.com/aymanaamin"
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/aymanaamin"
 
 
   [[params.social]]
@@ -186,18 +186,18 @@ defaultContentLanguageInSubdir = false
   align_right = false
   
 [[menu.main]]
-  name = "رئيسية"
+  name = "الرئيسية"
   url = "#about"
   weight = 8
 
 [[menu.main]]
-  name = "بحث علمي"
+  name = "النشر العلمي"
   url = "https://aymanamin.rbind.io/#publications"
  # url = "#publications"
   weight = 7
 
 [[menu.main]]
-  name = "مدونة"
+  name = "المدونة"
   url = "#posts"
   weight = 6
 
@@ -207,13 +207,13 @@ defaultContentLanguageInSubdir = false
 #  weight = 4
 
 [[menu.main]]
-  name = "خبرات"
+  name = "الخبرات"
   url = "https://aymanamin.rbind.io/bio/"
 #  url = "#teaching"
   weight = 5
 
 [[menu.main]]
-  name = "تواصل"
+  name = "التواصل"
   url = "#contact"
 #  url = "https://aymanamin.rbind.io/#contact"
   weight = 4
